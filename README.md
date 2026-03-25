@@ -107,7 +107,7 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](../string.png)
+![alt text](string.png)
 
 ## RESULT
 Thus the program to convert the given string into lowercase has been executed successfully
